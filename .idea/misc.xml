@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_about.xml" value="0.2222222222222222" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_cart.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_chaneg_password.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_comple_order.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_contac.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_coupun.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_editprofile.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_faq.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_genie.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_genie__pay_now.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_genie_order_details.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_home.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_intro.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_item_details.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_location.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_login.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_notification.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_order.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_order_details.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_otp.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_payment_option.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_paypal.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_paystack.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_pick_dropitem.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_privacy_policy.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_profile.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_razorpay.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_referl.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_strippayment.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_tramandcondition.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/activity_wallet.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/adapter_addresss_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/adapter_banner_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/addressmain_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/category_circle_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/crearcard_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custom_tab.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_demo_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_image.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_mycard.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_myitem.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_noti.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_orderitem.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_ordertrack.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_payment.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_paymentitem.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_prize.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_prized.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/custome_store.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/faq_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_category.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_home.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_info1.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_info2.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_info3.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_product.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/fragment_sub_category.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/image_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/imageview_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/info_window_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_category.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_categorysimpleview.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_categoryviewall.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_coupon.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_histry.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_image.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_timeline.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/item_user.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/list_home_item.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/popup_loading.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/product_home_item.xml" value="0.23796296296296296" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/product_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/spinner_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/New folder (28)/gogreen-1.6/GoGreen CustomerApp v1.6/app/src/main/res/layout/spinnercode_layout.xml" value="0.2604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
